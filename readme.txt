@@ -1,1 +1,1 @@
-Welcome to Simplilearn training!!
+Welcome to Simplilearn Git and Github training!!
